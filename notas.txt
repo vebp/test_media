@@ -1,0 +1,11 @@
+
+
+
+
+links
+https://developer.mozilla.org/en-US/docs/Web/API/Navigator/getUserMedia
+https://stackoverflow.com/questions/60431835/how-to-convert-a-blob-url-to-a-audio-file-and-save-it-to-the-server
+https://simpleisbetterthancomplex.com/tutorial/2016/08/01/how-to-upload-files-with-django.html
+https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API
+https://github.com/mdn/web-dictaphone
+https://mdn.github.io/web-dictaphone/
